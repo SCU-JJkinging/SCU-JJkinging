@@ -2,7 +2,7 @@
 
 - 🌱 I’m a Master of Computer Science.
 - 💬 Communicate with me: [CSDN](https://blog.csdn.net/qq_41845478?spm=1000.2115.3001.5343)
-- 📫 How to reach me: [Email](2452393862@qq.com)
+- 📫 How to reach me: [Email]: 2452393862@qq.com
 - ⚡ Fun fact: Love music, LoL, coding and all good things in my life.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinxiang-unique&show_icons=true)](https://github.com/jinxiang-unique/jinxiang-unique)
