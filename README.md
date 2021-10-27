@@ -3,9 +3,9 @@
 - 🌱 I’m a Master of Computer Science.
 - 💬 Communicate with me: [CSDN](https://blog.csdn.net/qq_41845478?spm=1000.2115.3001.5343)
 - 📫 How to reach me: [Email]: 2452393862@qq.com
-- ⚡ Fun fact: Love music, LoL, coding and all good things in my life.
+- 😄 Fun fact: Love music, LoL, coding and all good things in my life.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinxiang-unique&show_icons=true)](https://github.com/jinxiang-unique/jinxiang-unique)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SCU-JJkinging&show_icons=true)](https://github.com/SCU-JJkinging/SCU-JJkinging)
 
 <!-- <a href="https://github.com/jinxiang-unique/CCIR-Cup">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jinxiang-unique&repo=CCIR-Cup&show_owner=True" />
