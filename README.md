@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Xiang Jin.
 
 - 🌱 I’m a Master of Computer Science.
-- 💬 Communicate with me: [CSDN](https://blog.csdn.net/qq_41845478?spm=1000.2115.3001.5343)
+<!-- - 💬 Communicate with me: [CSDN](https://blog.csdn.net/qq_41845478?spm=1000.2115.3001.5343) -->
 - 📫 How to reach me: [Email]: 2452393862@qq.com
 - 😄 Fun fact: Love music, LoL, coding and all good things in my life.
 
